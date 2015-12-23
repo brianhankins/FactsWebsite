@@ -1,0 +1,53 @@
+body {
+  background-image: url(../img/camo.jpg);
+  background-size: cover;
+}
+
+#facts {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 50px;
+
+}
+
+
+img {
+  display: block;
+  width: auto;
+  margin: auto;
+  border-radius: 10px;
+  
+
+}
+button {
+  background: #dae1e4;
+  border: none;
+  border-radius: 5px;
+  color: #1d3c6a;
+  font-size: 24px;
+  width: 480px;
+  padding: 40px 0;
+  margin: -40px -20px;
+  outline: none;
+  cursor: pointer;
+}
+.spoiler {
+	background: #1d3c6a;
+  width: 440px;
+  margin: 0 auto 20px;
+  border-radius: 15px;
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 24px
+}
+.spoiler span {
+  color: #FF0000;
+}
+
+#foot {
+  text-align: center;
+  font-size: 25px;
+  font-family: serif;
+}
